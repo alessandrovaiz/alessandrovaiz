@@ -1,5 +1,5 @@
 <h1 align="center">Olá!👋, Eu sou o Alessandro Vaiz</h1>
-<h3 align="center">Sou um desenvolvedor full stack, apaixonado pelas melhores tecnologias de desenvolvimento. Tenho experiência com projetos utilizando Nodejs, Flutter, SQL, Java e Dart.
+<h3 align="center">Sou um desenvolvedor full stack, apaixonado pelas melhores tecnologias de desenvolvimento. Tenho experiência com projetos utilizando Nodejs, Flutter, SQL, Laravel, Java e Dart.
 </h3>
 <hr>
  Atualmente estou trabalhando na [TenBrasil](https://www.tenbrasil.com.br/)
