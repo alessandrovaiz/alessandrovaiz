@@ -2,7 +2,7 @@
 <h3 align="center">Sou um desenvolvedor full stack, apaixonado pelas melhores tecnologias de desenvolvimento. Tenho experiência com projetos utilizando Nodejs, Flutter, SQL, Laravel, Java e Dart.
 </h3>
 <hr>
- Atualmente estou trabalhando na [TenBrasil](https://www.tenbrasil.com.br/)
+ Atualmente estou trabalhando na [MBLabs](http://www.mblabs.com.br/)
 
 <h3 align="left">Contato: </h3>
 <p align="left">
