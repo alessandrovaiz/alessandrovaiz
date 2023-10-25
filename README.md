@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about the best development technologies. I have experience with projects using Nodejs, Flutter, SQL, Laravel, Java, AWS and Dart.
 </h3>
 <hr>
-Currently working at [MBLabs](http://www.mblabs.com.br/)
+Currently working at [ONZ Software](https://onz.software/)
 
 <h3 align="left">Contact: </h3>
 <p align="left">
